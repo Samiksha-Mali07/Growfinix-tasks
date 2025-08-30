@@ -1,0 +1,6 @@
+📌 Project Summary
+
+This project showcases a ChatGPT-powered Data Q&A System developed during my Data Science Internship at Growfinix Technology. 
+The system enables users to upload CSV datasets and ask natural language questions about their data. 
+It responds with AI-generated answers, summarizes large datasets, logs all interactions,
+and exports insights into a professional PDF report
